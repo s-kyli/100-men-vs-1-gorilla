@@ -1,6 +1,7 @@
 # 100 men vs 1 gorilla
 
-This is an asymmetrical pvp game I made in 3 days where a team of 100 players must coordinate to defeat one overpowered Gorilla (which is also a player), attracting over 39,000 visits.
+This is an asymmetrical pvp game I made in 3 days where a team of 100 players must coordinate to defeat one overpowered Gorilla (which is also a player), attracting over 39,000 visits.\
+https://www.roblox.com/games/117826759571157/100-Players-vs-Gorilla
 
 **Purpose**:
 
