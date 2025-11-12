@@ -5,7 +5,7 @@ https://www.roblox.com/games/117826759571157/100-Players-vs-Gorilla
 
 **Purpose**:
 
-So back in May 2025, this meme on Instagram called "100 men vs 1 gorilla" on was popular. It was the debate about who would win: 100 men or 1 gorilla? This gave me the idea to solo-develop this Roblox game. My goal was to build a "many vs 1" combat scenario, which presented unique technical challenges in networking and gameplay scripting.
+So back in May 2025, there was this meme on Instagram called "100 men vs 1 gorilla". It was the debate about who would win: 100 men or 1 gorilla? This gave me the idea to solo-develop this Roblox game. My goal was to build a "many vs 1" combat scenario, which presented unique technical challenges in networking and gameplay scripting.
 
 **Features**:
 
