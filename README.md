@@ -19,6 +19,8 @@ Round-based gameplay - fast-paced rounds where players hunt the Gorilla, or are 
 **Challenges I faced**:
 
 Balancing. This is a big one. I went through *hours* of testing with my friends (thank yall) to make sure the game is balanced on all servers, big or small. I implemented a health-scaling for the Gorilla, so it is easier to kill for servers with less people, and so it is much harder to kill the Gorilla (teamwork is necessary) for larger servers.\
-Lua OOP framework (metatables): I was just getting into Roblox Lua's OOP framework, and I had to learn everything from scratch. I built two classes -- one for the melee hammer and the other for the Gorilla's abilities. 
+Lua OOP framework (metatables): I was just getting into Roblox Lua's OOP framework, and I had to learn everything from scratch. I built two classes -- one for the melee hammer and the other for the Gorilla's abilities.
+
+Also my first time using git+VSCODE on my own! It was very confusing at first, but I'll get better.
 
 
